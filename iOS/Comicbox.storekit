@@ -1,0 +1,40 @@
+{
+  "identifier": "39D8B1D5",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "20E4A2B1",
+      "localizations": [],
+      "name": "Comicbox Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "8F1A2C3D",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlock Comicbox Pro features",
+              "displayName": "Comicbox Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.comicboxapp.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Comicbox Pro Monthly",
+          "subscriptionGroupID": "20E4A2B1",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
